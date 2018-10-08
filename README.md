@@ -5,7 +5,7 @@ GraphView is a DLL library that enables users to use SQL Server or Azure SQL Dat
 Features
 ---------
 
-GraphView is a DLL library through which you manage graph data in SQL Server (version 2008 and onward) and Azure SQL Database (v12 and onward). It provides features a standard graph database is expected to have. In addition, since GraphView relies on SQL databases, it inherits many features in the relational world that are often missing in native graph databases.
+GraphView is a DLL library through which you manage graph data in SQL Server (version 2008 and onward) and Azure SQL Database (v12 and onward). It provides features with a standard graph database is expected to have. In addition, since GraphView relies on SQL databases, it inherits many features in the relational world that are often missing in native graph databases.
 
 GraphView offers the following major features:
 
