@@ -122,7 +122,7 @@ namespace GraphView
                     if (newHistogramEnd || entry.Key < newEntry.Current.Key)
                     {
                         var curTuple = entry.Value;
-                        if (curTuple.Item2 == true)
+                        if (curTuple.Item2)
                         {
                             var tmpCount = curTuple.Item1 * newDefaultRow;
                             resRowCount += tmpCount;
